@@ -14,7 +14,7 @@ export default {
     data() {
         return {
             tabela2024: [],
-            apiUrl: "http://127.0.0.1:5000/2024", 
+            apiUrl: "https://backend-teste-ia05.onrender.com/2024", 
             mostrarDados2024: false
         };
     },

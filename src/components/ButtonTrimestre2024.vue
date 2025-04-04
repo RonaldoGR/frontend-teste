@@ -14,7 +14,7 @@ export default {
     data() {
         return {
             tabela_tri_2024: [],
-            apiUrl: "http://127.0.0.1:5000/trimestre2024", 
+            apiUrl: "https://backend-teste-ia05.onrender.com/trimestre2024", 
             mostrarDadosTrimestre2024: false
         };
     },

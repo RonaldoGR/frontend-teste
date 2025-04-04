@@ -13,7 +13,7 @@ export default {
     data() {
         return {
             tabela2023: [],
-            apiUrl: "http://127.0.0.1:5000/trimestre2023", 
+            apiUrl: "https://backend-teste-ia05.onrender.com/trimestre2023", 
             mostrarDados: false
         };
     },
